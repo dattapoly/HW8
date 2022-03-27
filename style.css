@@ -1,0 +1,107 @@
+html,body{
+    background-color:#34495e ;
+    height: 100%;
+    margin: 10px;
+}
+.container> div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+.container> div:nth-child(1n){
+    background-color: crimson;
+}
+.container> div:nth-child(2n){
+    background-color: cadetblue;
+}
+.container> div:nth-child(3n){
+    background-color: coral;
+}
+.container> div:nth-child(4n){
+    background-color: blue;
+}
+.container> div:nth-child(5n){
+    background-color: chocolate;
+}
+.container> div:nth-child(6n){
+    background-color: chartreuse;
+}
+.container2> div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:2em ;
+}
+.container2>div:nth-child(1n){
+    background-color:yellowgreen;
+}
+
+.container2>div:nth-child(2n){
+    background-color: blueviolet;
+}
+
+.container2>div:nth-child(3n){
+    background-color: rgb(119, 101, 101);
+}
+
+.container2>div:nth-child(4n){
+    background-color: blue;
+}
+.container3>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+.container3>div:nth-child(1n){
+    background-color: brown;
+    
+}
+.container3>div:nth-child(2n){
+    background-color: green;
+}
+.container3>div:nth-child(3n){
+    background-color:blueviolet;
+    
+}
+.container3>div:nth-child(4n){
+    background-color: blue;
+}
+.container4>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+.container4>div:nth-child(1n){
+    background-color: blue;
+}
+.container4>div:nth-child(2n){
+    background-color: blueviolet;
+}
+.container4>div:nth-child(3n){
+    background-color: brown;
+}
+.container4>div:nth-child(4n){
+    background-color: burlywood;
+}
+.container4>div:nth-child(5n){
+    background-color: cadetblue;
+}
+.container4>div:nth-child(6n){
+    background-color: chartreuse;
+}
+.container4>div:nth-child(7n){
+    background-color: chocolate;
+}
+.container4>div:nth-child(8n){
+    background-color: coral;
+}
+.container4>div:nth-child(9n){
+    background-color: crimson;
+}
+.container4>div:nth-child(10n){
+    background-color: cyan;
+}
+
